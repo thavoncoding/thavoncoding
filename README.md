@@ -1,17 +1,22 @@
-<h3 align="center">A passionate Web Developer from Cambodia</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=thavoncoding&label=Profile%20views&color=0e75b6&style=flat" alt="thavoncoding" /> </p><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thavoncoding" alt="thavoncoding" /></a> </p>
-🔭 I'm currently working on E-commerce Web Application
+<h1 align="center">Hi 👋, I'm STONG THAVON</h1>
+<h3 align="center">A passionate Game Developer and Web Developer from Cambodia</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-🌱 I'm currently learning JavaScript, React, Node.js, and TypeScript
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thavoncoding&label=Profile%20views&color=0e75b6&style=flat" alt="thavoncoding" /> </p>
 
-👯 I'm looking to collaborate on Full-Stack Web Projects
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thavoncoding" alt="thavoncoding" /></a> </p>
 
-🤝 I'm looking for help with Backend Development
+- 🔭 I’m currently working on **Racing Car Game**
 
-💬 Ask me about Frontend Development
+- 🌱 I’m currently learning **Java, Php and TypeScript**
 
-📫 How to reach me stongchhorvon8@gmail.com
+- 👯 I’m looking to collaborate on **Shooting Game**
 
-⚡ Fun fact I love creating responsive and user-friendly web interfaces
+- 🤝 I’m looking for help with **Adventure Game**
+
+- 💬 Ask me about **C#**
+
+- 📫 How to reach me **stongchhorvon8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
