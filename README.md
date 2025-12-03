@@ -26,6 +26,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thavoncoding&show_icons=true&locale=en&layout=compact" alt="thavoncoding" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thavoncoding&show_icons=true&locale=en" alt="thavoncoding" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thavoncoding&" alt="thavoncoding" /></p>
