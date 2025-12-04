@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Am%20Cheachamroeun&fontSize=42&fontAlignY=30&animation=twinkling&fontColor=fff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Stong%20Thavon&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
