@@ -22,7 +22,7 @@
 ## 🚀 About Me
 
 ```javascript
-const chamroeun = {
+const thavoncoding = {
     pronouns: "He" | "Him",
     location: "Cambodia 🇰🇭",
     role: "Software Engineer",
