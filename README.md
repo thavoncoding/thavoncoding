@@ -53,7 +53,7 @@ const thavoncoding = {
 ## 💼 Portfolio
 
 <div align="center">
-  <a href="https://thavoncoding.vercel.app/" target="_blank">
+  <a href="https://stongthavon.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_View_My_Portfolio-FF6B6B?style=for-the-badge&logoColor=white" alt="portfolio" />
   </a>
 </div>
@@ -232,7 +232,7 @@ const thavoncoding = {
   <a href="mailto:stongchhorvon8@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://thavoncoding.vercel.app/" target="_blank">
+  <a href="https://stongthavon.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
