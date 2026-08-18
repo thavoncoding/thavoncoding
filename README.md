@@ -61,7 +61,7 @@ I enjoy building modern web applications, backend APIs, and full-stack systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Stong%20Thavon-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/stong-thavon/)
 
-[![Email](https://img.shields.io/badge/Email-stongchhorvon8%40gmail.com-red?style=flat-square&logo=gmail)](mailto:stongchhorvon8@gmail.com)
+[![Email](https://img.shields.io/badge/Email-stongthavon23%40gmail.com-red?style=flat-square&logo=gmail)](mailto:stongthavon23@gmail.com)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat-square)](https://stong-thavon.vercel.app/)
 
