@@ -7,9 +7,9 @@ I enjoy building modern web applications, backend APIs, and full-stack systems.
 ## 👨‍💻 About Me
 
 - 💼 Software Engineer
-- 🌱 Currently learning more about **Nuxt.js & NestJS**
+- 🌱 Currently learning **Laravel, Nuxt.js & NestJS**
 - 🚀 Interested in **Full-Stack Development**
-- 💡 Working with modern web technologies
+- 💡 Building modern web applications and APIs
 - 📍 Cambodia 🇰🇭
 
 ## 🛠 Tech Stack
@@ -30,6 +30,8 @@ I enjoy building modern web applications, backend APIs, and full-stack systems.
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
 ![NestJS](https://skillicons.dev/icons?i=nestjs)
+![PHP](https://skillicons.dev/icons?i=php)
+![Laravel](https://skillicons.dev/icons?i=laravel)
 ![Go](https://skillicons.dev/icons?i=go)
 
 ### Database & Tools
